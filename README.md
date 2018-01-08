@@ -12,7 +12,7 @@ You can use whichever of the foaas message types you like.
 
      4. Print these sky-fist-shaking statements to the DOM
  
-Bonus: 
-Only tell those asteroids that are “potentially hazardous” to fuck off.
-Use different messages from foaas for the different asteroids.
-Use Handlebars to print your three messages to the DOM
+### Bonus: 
+#### Only tell those asteroids that are “potentially hazardous” to fuck off.
+#### Use different messages from foaas for the different asteroids.
+#### Use Handlebars to print your three messages to the DOM

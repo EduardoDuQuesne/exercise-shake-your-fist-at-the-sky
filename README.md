@@ -1,4 +1,4 @@
-# mj-shake-your-fist-at-the-sky
+# MJ - Shake Your Fist At The Sky
 
 ## API KEY NOT UPLOADED
 

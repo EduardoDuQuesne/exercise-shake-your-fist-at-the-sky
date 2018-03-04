@@ -2,8 +2,8 @@
 
 ## Shake Your Fist At The Sky
 
-Shake your fist at the sky
-Practice jQuery and Promises and optionally Handlebars
+Shake your fist at the sky <br />
+Practice jQuery and Promises and optionally Handlebars <br />
  
  - Accept two dates from the user (year, month, day) as a search parameter.
 - Use the NASA API (https://api.nasa.gov/api.html#NeoWS) to make an ajax call that will gather data about what objects will be close to our planet in the timeframe specified by the user’s dates.
